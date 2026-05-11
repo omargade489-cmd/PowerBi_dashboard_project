@@ -40,10 +40,6 @@ The dataset contains HR employee records including:
 - Research & Development department has highest workforce
 - Male employees are higher compared to female employees
 
-# Dashboard Screenshot
-
-![HR Dashboard](dashboard.png)
-
 # How to Use
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
