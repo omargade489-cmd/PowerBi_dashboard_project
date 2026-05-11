@@ -45,6 +45,9 @@ The dataset contains HR employee records including:
 2. Open using Power BI Desktop
 3. Refresh data if required
 
+# Screenshot
+<img width="1026" height="576" alt="Screenshot 2026-05-11 151723" src="https://github.com/user-attachments/assets/863cba71-0942-4f6a-a7f0-fd2794688984" />
+
 # Author
 Om Argade  
 Aspiring Data Analyst
